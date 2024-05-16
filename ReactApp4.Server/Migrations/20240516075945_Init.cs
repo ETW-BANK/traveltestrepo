@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 #nullable disable
 
-namespace Travel_Ginie_App.Server.Migrations
+namespace ReactApp4.Server.Migrations
 {
     /// <inheritdoc />
     public partial class Init : Migration
