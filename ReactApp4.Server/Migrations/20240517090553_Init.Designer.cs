@@ -12,7 +12,7 @@ using Travel_Ginie_App.Server.DATA;
 namespace ReactApp4.Server.Migrations
 {
     [DbContext(typeof(TripAppContext))]
-    [Migration("20240516075945_Init")]
+    [Migration("20240517090553_Init")]
     partial class Init
     {
         /// <inheritdoc />
